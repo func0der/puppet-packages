@@ -1,0 +1,8 @@
+{
+  "name": "packages",
+  "version": "0.1.0",
+  "author": "Aaron Greengrass",
+  "summary": "Module to handle package management via hiera",
+  "source": "https://github.com/adioe3/puppet-packages",
+  "description": "Module to handle package management via hiera"
+}
