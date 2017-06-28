@@ -1,8 +1,16 @@
 {
-  "name": "packages",
+  "name": "puppet-packages",
   "version": "0.1.0",
-  "author": "Aaron Greengrass",
+  "author": "Aaron Greengrass, Armin Besirovic",
   "summary": "Module to handle package management via hiera",
   "source": "https://github.com/adioe3/puppet-packages",
-  "description": "Module to handle package management via hiera"
+  "description": "Module to handle package management via hiera",
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Debian",
+    },
+    {
+      "operatingsystem": "Ubuntu",
+    },
+  ]
 }
