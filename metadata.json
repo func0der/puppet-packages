@@ -7,10 +7,13 @@
   "description": "Module to handle package management via hiera",
   "operatingsystem_support": [
     {
-      "operatingsystem": "Debian",
+      "operatingsystem": "Debian"
     },
     {
-      "operatingsystem": "Ubuntu",
-    },
+      "operatingsystem": "Ubuntu"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": [
   ]
 }
